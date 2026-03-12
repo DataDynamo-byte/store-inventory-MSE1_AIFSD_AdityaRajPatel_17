@@ -67,7 +67,7 @@ npm start
 ## Deployment
 
 - **GitHub:** [Repository Link](https://github.com/DataDynamo-byte/store-inventory-MSE1_AIFSD_AdityaRajPatel_17)
-- **Render:** *(Add your Render deployment link here)*
+- **Render:** https://store-inventory-api-j9v2.onrender.com/
 
 ## Author
 
